@@ -146,5 +146,5 @@ Repository Files
 File	Description
 README.md	Contains detailed explanations of Requirement Analysis concepts and examples.
 alx-booking-uc.png	Use Case Diagram for the Booking Management System.
-Step 5: Add the Use Case Diagram
+Step 5: Add the Use Case Diagram 
 
